@@ -1,0 +1,1 @@
+# MindSpore-Compatible-Distributed-Training-Principles-and-Practices
